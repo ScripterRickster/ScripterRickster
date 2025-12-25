@@ -1,66 +1,67 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#6cf;">ScripterRickster</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">ScripterRickster</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6CF7FF&center=true&vCenter=true&width=500&lines=I+like+innovating+and+exploring+the+unknowns;Passionate+about+coding;Always+learning+new+things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ScripterRickster&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=I+like+innovating+and+exploring+the+unknowns;I+like+solving+complex+problems;I+like+collaborating+with+others+to+tackle+diverse+challenges;I+like+creating+for+the+better+of+society" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-> **I like innovating and exploring the unknowns.**  
-I enjoy building things from scratch, experimenting with new technologies,  
-and constantly pushing my limits as a developer.
-
----
-
-## 🚀 Programming Languages
+<!-- ===================== VISITOR COUNT ===================== -->
+<p align="center" style="font-size:18px; font-weight:bold; color: #6C63FF; display:flex; align-items:center; justify-content:center; gap:15px;">
+  <span>Always building. Always learning.</span>
+</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=ScripterRickster&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" width="160" />
 </p>
 
 ---
 
-## 🗄️ Databases
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">🛠️ Technological Skills</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua,pytorch,flask,nodejs,mongodb,mysql" />
 </p>
 
 ---
 
-## 🎯 Hobbies
-- 🏊 Swimming  
-- 🏸 Badminton  
+<!-- ===================== HOBBIES ===================== -->
+<h2 align="center">🎯 Hobbies & Interests</h2>
 
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ScripterRickster&theme=radical&no-frame=true&row=1&column=7" />
+  🏊 Swimming &nbsp;•&nbsp; 🏸 Badminton &nbsp;•&nbsp; 💻 Programming &nbsp;•&nbsp; 🧊 3D Modelling
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== ALL GITHUB STATS IN ONE LINE ===================== -->
+<h2 align="center">📊 GitHub Overview</h2>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ScripterRickster&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScripterRickster&layout=compact&theme=radical&hide_border=true" />
+  
+  <img height="160" src="https://github-profile-trophy.vercel.app/?username=ScripterRickster&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScripterRickster&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripterRickster&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Top Skills
+<!-- ===================== CONNECT WITH ME ===================== -->
+<h2 align="center">🤝 Connect With Me</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ScripterRickster&theme=radical&hide_border=true" />
+  <a href="https://steamcommunity.com/id/questionable4existence/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+   <img src="https://img.shields.io/badge/Discord-questionable__existence-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://www.roblox.com/users/3422141408/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="https://monkeytype.com/profile/ScripterRickster" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-FFD43B?style=for-the-badge&logo=keyboard&logoColor=black" />
+  </a>
 </p>
 
----
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <i>"Code. Experiment. Innovate."</i> ✨
-</p>
+
