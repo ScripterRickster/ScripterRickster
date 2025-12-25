@@ -1,5 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#6C63FF;">ScripterRickster</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hey+there,+I'm+Ricky+L.;%F0%9F%91%8B+Hey+there,+I'm+ScripterRickster" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=900&lines=I+like+innovating+and+exploring+the+unknowns;I+like+solving+complex+problems;I+like+collaborating+with+others+to+tackle+diverse+challenges;I+like+creating+for+the+better+of+society" alt="Typing SVG" />
