@@ -65,6 +65,9 @@
   <a href="https://dmoj.ca/user/ScripterRickster" target="_blank">
     <img src="https://img.shields.io/badge/DMOJ-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
+  <a href="https://open.kattis.com/users/ricky-liu1" target="_blank">
+    <img src="https://img.shields.io/badge/Kattis-005EB8?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
   <a href="https://monkeytype.com/profile/ScripterRickster" target="_blank">
     <img src="https://img.shields.io/badge/Monkeytype-FFD43B?style=for-the-badge&logo=keyboard&logoColor=black" />
   </a>
