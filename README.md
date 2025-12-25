@@ -48,8 +48,8 @@
 
 ---
 
-<!-- ===================== CONNECT WITH ME ===================== -->
-<h2 align="center">🤝 Connect With Me</h2>
+<!-- ===================== AFFILIATED ACCOUNTS ===================== -->
+<h2 align="center">👤 Affiliated Accounts</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/questionable__existence?igsh=YTZzbWk4ZGVxNG1i&utm_source=qr" target="_blank">
@@ -61,6 +61,9 @@
    <img src="https://img.shields.io/badge/Discord-questionable__existence-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://www.roblox.com/users/3422141408/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="https://dmoj.ca/user/ScripterRickster" target="_blank">
+    <img src="https://img.shields.io/badge/DMOJ-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://monkeytype.com/profile/ScripterRickster" target="_blank">
     <img src="https://img.shields.io/badge/Monkeytype-FFD43B?style=for-the-badge&logo=keyboard&logoColor=black" />
