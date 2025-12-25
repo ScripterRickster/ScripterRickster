@@ -32,7 +32,7 @@
 <h2 align="center">🎯 Hobbies & Interests</h2>
 
 <p align="center">
-  🏊 Swimming &nbsp;•&nbsp; 🏸 Badminton &nbsp;•&nbsp; 💻 Programming &nbsp;•&nbsp; 🧊 3D Modelling
+  🏊 Swimming &nbsp;•&nbsp; 🏸 Badminton &nbsp;•&nbsp; 💻 Programming &nbsp;•&nbsp; 🧊 3D Modelling &nbsp;•&nbsp; 🌿 Touching Grass
 </p>
 
 ---
