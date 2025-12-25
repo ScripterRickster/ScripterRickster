@@ -11,7 +11,7 @@
 
 <!-- ===================== VISITOR COUNT + MOTTO ===================== -->
 <h3 align="center">
-   Always Building<br>Always Learning
+   Always Creating<br>Always Learning
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ScripterRickster&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" width="155" />
   </p>
