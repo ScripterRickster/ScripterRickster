@@ -52,6 +52,9 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.instagram.com/questionable__existence?igsh=YTZzbWk4ZGVxNG1i&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://steamcommunity.com/id/questionable4existence/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
