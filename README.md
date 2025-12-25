@@ -9,7 +9,7 @@
 
 <!-- ===================== VISITOR COUNT ===================== -->
 <p align="center" style="font-size:20px; font-weight:bold; color: #6C63FF; display:flex; align-items:center; justify-content:center; gap:15px;">
-  <span>Always building. 
+  <span>Always building.<br>
     Always learning.
   </span>
 </p>
