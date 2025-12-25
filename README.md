@@ -7,9 +7,9 @@
 
 ---
 
-<!-- ===================== VISITOR COUNT ===================== -->
+<!-- ===================== VISITOR COUNT + MOTTO ===================== -->
 <h3 align="center">
-   Always building.<br>Always learning.
+   Always Building<br>Always Learning
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ScripterRickster&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" width="160" />
   </p>
