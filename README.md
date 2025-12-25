@@ -23,7 +23,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua,ruby,pytorch,flask,nodejs,mongodb,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua,ruby,pytorch,flask,nodejs,mongodb,mysql,html,css,blender" />
 </p>
 
 ---
