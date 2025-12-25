@@ -8,11 +8,11 @@
 ---
 
 <!-- ===================== VISITOR COUNT ===================== -->
-<p align="center" style="font-size:30px; font-weight:bold; color: #6C63FF; display:flex; align-items:center; justify-content:center; gap:15px;">
-  <span>Always building.<br>
-    Always learning.
-  </span>
+<p align="center" style="font-size:30px; color:#6C63FF; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:5px;">
+  <b>Always building.<br>
+  Always learning.</b>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ScripterRickster&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views" width="160" />
 </p>
