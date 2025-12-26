@@ -25,7 +25,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua,ruby,pytorch,flask,nodejs,mongodb,mysql,html,css,blender,roblox,unity,unrealengine,robloxstudio,gitlab" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,lua,ruby,pytorch,flask,nodejs,mongodb,mysql,html,css,blender,autocad,unity,unrealengine,robloxstudio,gitlab" />
 </p>
 
 
@@ -66,11 +66,14 @@
   <a href="https://www.roblox.com/users/3422141408/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-  <a href="https://dmoj.ca/user/ScripterRickster" target="_blank">
-    <img src="https://img.shields.io/badge/DMOJ-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="https://gitlab.com/ScripterRickster" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-ScripterRickster-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://devpost.com/scripterrickster" target="_blank">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+  </a>
+   <a href="https://dmoj.ca/user/ScripterRickster" target="_blank">
+    <img src="https://img.shields.io/badge/DMOJ-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://open.kattis.com/users/ricky-liu1" target="_blank">
     <img src="https://img.shields.io/badge/Kattis-005EB8?style=for-the-badge&logo=leetcode&logoColor=white" />
