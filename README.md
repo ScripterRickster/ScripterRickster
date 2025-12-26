@@ -59,6 +59,9 @@
   <a href="https://steamcommunity.com/id/questionable4existence/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
+  <a href="https://www.epicgames.com/friends" target="_blank">
+    <img src="https://img.shields.io/badge/Epic%20Games-ScripterRick-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+  </a>
    <img src="https://img.shields.io/badge/Discord-questionable__existence-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://www.roblox.com/users/3422141408/profile" target="_blank">
     <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
