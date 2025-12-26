@@ -46,6 +46,7 @@
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripterRickster&theme=radical&hide_border=true" />
 </p>
+
 ---
 
 <!-- ===================== AFFILIATED ACCOUNTS ===================== -->
