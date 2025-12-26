@@ -78,6 +78,7 @@
   <a href="https://monkeytype.com/profile/ScripterRickster" target="_blank">
     <img src="https://img.shields.io/badge/Monkeytype-FFD43B?style=for-the-badge&logo=keyboard&logoColor=black" />
   </a>
+  <img src="https://img.shields.io/badge/Pok%C3%A9mon%20GO-ScripterRick-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white" />
 </p>
 
 
