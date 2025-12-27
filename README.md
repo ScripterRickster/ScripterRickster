@@ -44,7 +44,7 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=ScripterRickster&theme=radical&hide_border=true"/>
+  <img height="160" src="/Prerequisites/stats.svg" />
 </p>
 
 
