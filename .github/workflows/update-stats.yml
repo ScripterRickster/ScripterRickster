@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch streak stats SVG
+        run: |
+          curl -L \
+            "https://streak-stats.demolab.com/?user=ScripterRickster&theme=radical&hide_border=true" \
+            -o Prerequisites/stats.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add Prerequisites/stats.svg
+          git diff --cached --quiet || git commit -m "Update GitHub streak stats"
+          git push
