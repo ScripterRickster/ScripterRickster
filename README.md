@@ -44,8 +44,9 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripterRickster&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ScripterRickster&theme=radical&hide_borders=true" referrerpolicy="no-referrer"/>
 </p>
+
 
 ---
 
