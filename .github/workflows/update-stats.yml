@@ -2,7 +2,7 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,11 +20,20 @@ jobs:
           fetch-depth: 0
 
       - name: Fetch streak stats SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p Prerequisites
           curl -L \
-            "https://streak-stats.demolab.com/?user=ScripterRickster&theme=radical&hide_border=true" \
+            "https://streak-stats.demolab.com/?user=ScripterRickster&theme=radical&hide_border=true&token=${GH_TOKEN}" \
             -o Prerequisites/stats.svg
+
+      - name: Validate SVG (skip if API error)
+        run: |
+          if grep -q "Failed to retrieve contributions" Prerequisites/stats.svg; then
+            echo "Stats service returned an error SVG — skipping commit"
+            exit 0
+          fi
 
       - name: Commit and push if changed
         run: |
