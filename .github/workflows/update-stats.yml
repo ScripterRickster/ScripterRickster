@@ -30,7 +30,7 @@ jobs:
 
       - name: Validate SVG (skip if API error)
         run: |
-          if grep -q "Failed to retrieve contributions" Prerequisites/stats.svg; then
+          if grep -q "Failed to retrieve contributions" Prerequisites/stats2.svg; then
             echo "Stats service returned an error SVG — skipping commit"
             exit 0
           fi
@@ -40,6 +40,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add Prerequisites/stats.svg
+          git add Prerequisites/stats2.svg
           git diff --cached --quiet || git commit -m "Update GitHub stats"
           git push origin HEAD:main
