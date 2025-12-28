@@ -26,7 +26,7 @@ jobs:
           mkdir -p Prerequisites
           curl -L \
             "https://streak-stats.demolab.com/?user=ScripterRickster&theme=radical&hide_border=true&token=${GH_TOKEN}" \
-            -o Prerequisites/stats.svg
+            -o Prerequisites/stats2.svg
 
       - name: Validate SVG (skip if API error)
         run: |
