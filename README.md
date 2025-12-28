@@ -44,7 +44,7 @@
 <h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img height="160" src="/Prerequisites/stats.svg" />
+  <img height="160" src="/Prerequisites/stats.svg?v=2" />
 </p>
 
 
